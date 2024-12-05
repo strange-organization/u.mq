@@ -2,6 +2,6 @@ package umq
 
 import "fmt"
 
-func Test() {
-	fmt.Println(1222)
+func Hello() {
+	fmt.Println("Welcome, this seems to be an empty library")
 }
